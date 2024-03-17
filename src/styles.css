@@ -1,7 +1,16 @@
-body{
+:root {
+    --titleFont: "acorn", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+@font-face {
+   font-family: "acorn", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #030303;
+
+   src: url(src/fonts/acorn.woff);}
+
+
+    body{
     background: #ece7e1;
-
-
 }
 h1 {
   font-size: 96px;
