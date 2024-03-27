@@ -1,8 +1,7 @@
 :root {
-  --title-font-family: "acorn", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  --title-font-family: "houschka-pro", sans-serif;
   --default-font-family: "poppins", sans-serif;
-  --secondary-color: #ece7e1;
+  --secondary-color: #f7ef00;
   --branding-color: #ff10f0;
 }
 
