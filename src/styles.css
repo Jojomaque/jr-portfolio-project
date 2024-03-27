@@ -2,7 +2,7 @@
   --title-font-family: "houschka-pro", sans-serif;
   --default-font-family: "poppins", sans-serif;
   --secondary-color: #f7ef00;
-  --branding-color: #ff10f0;
+  --branding-color: #df99da;
 }
 
 /*  trying to figure out how to display acorn font on various other devices
@@ -22,6 +22,7 @@ body {
   background: var(--secondary-color);
   text-align: center;
   padding: 80px 20px;
+
 }
 
 h1 {
