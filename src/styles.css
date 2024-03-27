@@ -122,10 +122,10 @@ p {
   padding: 120px 60px;
 }
 
-.logo {
-  max-width: ;
-  max-height: ;
-}
+.nav__logo
+{  font-family: var(--title-font-family);
+  font-size: 18px;
+  margin-top: 30px;}
 
 nav li {
   display: inline;
