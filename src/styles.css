@@ -21,7 +21,8 @@ body {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 80px 20px;
+margin: 30px 100px;
+border-radius: 10px
 }
 
 h1 {
